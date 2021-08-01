@@ -1,1 +1,1 @@
-# Image-Steganography-Deep-Learning-Application-for-Sata-Concealing
+# Image-Steganography-Deep-Learning-Application-for-Data-Concealing
